@@ -1,1 +1,1 @@
-# Linear-Regression---Saham-Prediction-
+# Prediction Saham Menggunakan Metode Linear Regresion
